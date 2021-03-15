@@ -37,9 +37,7 @@ body {
 .link{
     text-decoration: none
 }
-/* .logo-link {
-  color: var(--link-text-site-nav);
-} */
+
 
 .logo-web {
   color: var(--accent-text-color);
